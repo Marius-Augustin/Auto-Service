@@ -23,4 +23,4 @@ With a specific on inheritance, the projects is made of three esential classes (
 ### Further Notes
 * The project purpose is educational, first and foremost. 
 * The instructions and requirements are included into the repository.
-* Course "Object-Oriented Programming", ACS IS 2023. 
+* Course Object-Oriented Programming, ACS IS 2023. 
